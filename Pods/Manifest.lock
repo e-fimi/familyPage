@@ -1,0 +1,20 @@
+PODS:
+  - PinLayout (1.10.0)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - PinLayout
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - PinLayout
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  PinLayout: e50e9a748b632905fca6e67043ea4b05d6c92186
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 9916f5b9b4653bc110dfb09056f88482d15e997a
+
+COCOAPODS: 1.11.2
